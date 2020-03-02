@@ -30,6 +30,7 @@ curl https://pe.thisispedro.com/pe?number=66
 ## To do
 
 - Automate docker build, push and deploy
-- Improve in code documentation
+- Improve in-code documentation
 - Improve variable naming
 - Better user validation on the API side
+- Add test to check json syntax
